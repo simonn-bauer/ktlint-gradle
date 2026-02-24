@@ -11,7 +11,6 @@ import org.jetbrains.kotlin.util.prefixIfNot
 plugins {
     id("com.gradle.plugin-publish")
     `kotlin-dsl`
-    `maven-publish`
     id("org.jlleitschuh.gradle.ktlint")
     id("com.gradleup.shadow")
     id("com.github.breadmoirai.github-release")
